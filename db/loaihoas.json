@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "60bdcafc4db85a24f0c8cb5b"
+  },
+  "maloai": "Hoa-Cuc",
+  "tenloai": "Hoa cúc"
+},{
+  "_id": {
+    "$oid": "60bdcafc4db85a24f0c8cb5c"
+  },
+  "maloai": "Hoa-Cuoi",
+  "tenloai": "Hoa cưới"
+},{
+  "_id": {
+    "$oid": "60bdcafc4db85a24f0c8cb5d"
+  },
+  "maloai": "Hoa-Hong",
+  "tenloai": "Hoa hồng"
+},{
+  "_id": {
+    "$oid": "60bdcafc4db85a24f0c8cb5e"
+  },
+  "maloai": "Hoa-Xuan",
+  "tenloai": "Hoa xuân"
+}]
